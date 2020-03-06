@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lieyandefennu.github.io</id>
     <title>Lieyandefennu</title>
-    <updated>2020-03-06T08:19:17.592Z</updated>
+    <updated>2020-03-06T08:20:47.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lieyandefennu.github.io"/>
     <link rel="self" href="https://lieyandefennu.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://lieyandefennu.github.io/images/avatar.png</logo>
     <icon>https://lieyandefennu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Lieyandefennu</rights>
+    <entry>
+        <title type="html"><![CDATA[一个测试用的文章]]></title>
+        <id>https://lieyandefennu.github.io/post/yi-ge-ce-shi-yong-de-wen-zhang/</id>
+        <link href="https://lieyandefennu.github.io/post/yi-ge-ce-shi-yong-de-wen-zhang/">
+        </link>
+        <updated>2020-03-06T08:19:49.000Z</updated>
+        <content type="html"><![CDATA[<p>这里是文章简介吗？<br>
+这里应该看不到吧？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lieyandefennu.github.io/post/hello-gridea/</id>
