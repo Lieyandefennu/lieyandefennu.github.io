@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lieyandefennu.github.io</id>
     <title>Lieyandefennu</title>
-    <updated>2020-05-16T05:46:13.393Z</updated>
+    <updated>2020-05-16T05:48:58.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lieyandefennu.github.io"/>
     <link rel="self" href="https://lieyandefennu.github.io/atom.xml"/>
@@ -53,23 +53,25 @@
 </li>
 <li>
 <p>将损坏U盘插入计算机中，打开由<code>chipgenius.zip</code>解压出的<code>ChipGenius_v4_19_0723</code>文件夹内的<code>ChipGenius_v4_19_0723.exe</code>应用程序。在弹出的对话框的上部名为<code>系统上连接的USB控制器及USB设备列表（选定设备查看详细信息）：</code>的列表框中选择插入的U盘：（不好判断可以根据弹出的<code>请将磁盘插入“可移动磁盘 (盘符)”。</code>中盘符号进行选择，例如我的U盘是[H:]盘符，就选择下图中前缀为[H:]的列表项）</p>
-<figure data-type="image" tabindex="1"><img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200319083653742.png" alt="image-20200319083653742" loading="lazy"></figure>
+</li>
+</ul>
+<figure data-type="image" tabindex="1"><img src="https://lieyandefennu.github.io/post-images/1589608083642.png" alt="" loading="lazy"></figure>
 <p>并在下部名为<code>所选设备的详细信息：</code>的列表框中只选取最后几行的<code>主控厂商</code>、<code>主控型号</code>和<code>闪存识别码</code>，记下。</p>
 <blockquote>
 <p>主控厂商: ChipsBank(芯邦)</p>
 <p>主控型号: CBM2199A - [2017-12-12]</p>
 <p>闪存识别码:　　89C40832A600 - Intel(英特尔) - 1CE/单通道 [TLC]</p>
 </blockquote>
-</li>
+<ul>
 <li>
 <p>根据<strong>主控厂商</strong>在搜索引擎中搜索<code>&quot;主控厂商&quot;+量产工具</code>，并根据自己的<strong>主控型号</strong>选择量产工具并进行下载。</p>
 </li>
 <li>
 <p>打开由<code>APToolV7100_19-03.zip</code>解压出的<code>APToolV7100_19-03</code>文件夹内的<code>APToolV6A.exe</code>应用程序。</p>
-<figure data-type="image" tabindex="2"><img src="C:%5CUsers%5CAdministrator%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20200319085336035.png" alt="image-20200319085336035" loading="lazy"></figure>
-<p>无需设置，右侧菜单栏单击<strong>刷新</strong>按钮后，根据自己的U盘信息<code>闪存识别码</code>搜寻自己的U盘。上图中只有一个盘轨道“12-H [99] （61632M） I29F512G08EBHAF,CE:1,89C40832A6 [B]”。该<code>内存识别码</code>中前12位数字<code>89C40832A600</code>对应轨道第二行<code>89C40832A6</code>（估计多出来的两个0是凑数字的）；<code>1CE</code>对应<code>CE:1</code>；<code>12-H</code>即<code>12轨道，H盘符</code>（大概是）。接下来可以单击右侧菜单栏中的<strong>全部开始(S)<strong>按钮或者单击中间的</strong>12-H</strong>按钮，等到进度跑完U盘就修复完成。</p>
 </li>
 </ul>
+<figure data-type="image" tabindex="2"><img src="https://lieyandefennu.github.io/post-images/1589608130225.png" alt="" loading="lazy"></figure>
+<p>无需设置，右侧菜单栏单击<strong>刷新</strong>按钮后，根据自己的U盘信息<code>闪存识别码</code>搜寻自己的U盘。上图中只有一个盘轨道“12-H [99] （61632M） I29F512G08EBHAF,CE:1,89C40832A6 [B]”。该<code>内存识别码</code>中前12位数字<code>89C40832A600</code>对应轨道第二行<code>89C40832A6</code>（估计多出来的两个0是凑数字的）；<code>1CE</code>对应<code>CE:1</code>；<code>12-H</code>即<code>12轨道，H盘符</code>（大概是）。接下来可以单击右侧菜单栏中的<strong>全部开始(S)<strong>按钮或者单击中间的</strong>12-H</strong>按钮，等到进度跑完U盘就修复完成。</p>
 <h3 id="后语">后语</h3>
 <p>请规范使用U盘，防止U盘损坏。</p>
 ]]></content>
