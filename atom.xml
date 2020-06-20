@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lieyandefennu.github.io</id>
     <title>Lieyandefennu</title>
-    <updated>2020-06-20T14:54:44.663Z</updated>
+    <updated>2020-06-20T14:58:43.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lieyandefennu.github.io"/>
     <link rel="self" href="https://lieyandefennu.github.io/atom.xml"/>
@@ -27,9 +27,9 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于U盘插入计算机后显示 请将磁盘插入“可移动磁盘 (盘符)”。 的解决办法]]></title>
-        <id>https://lieyandefennu.github.io/post/guan-yu-u-pan-cha-ru-ji-suan-ji-hou-xian-shi-qing-jiang-ci-pan-cha-ru-ke-yi-dong-ci-pan-pan-fu-de-jie-jue-ban-fa/</id>
-        <link href="https://lieyandefennu.github.io/post/guan-yu-u-pan-cha-ru-ji-suan-ji-hou-xian-shi-qing-jiang-ci-pan-cha-ru-ke-yi-dong-ci-pan-pan-fu-de-jie-jue-ban-fa/">
+        <title type="html"><![CDATA[关于U盘插入计算机后显示 请将磁盘插入“可移动磁盘”。 的解决办法]]></title>
+        <id>https://lieyandefennu.github.io/post/guan-yu-u-pan-cha-ru-ji-suan-ji-hou-xian-shi-qing-jiang-ci-pan-cha-ru-ke-yi-dong-ci-pan-de-jie-jue-ban-fa/</id>
+        <link href="https://lieyandefennu.github.io/post/guan-yu-u-pan-cha-ru-ji-suan-ji-hou-xian-shi-qing-jiang-ci-pan-cha-ru-ke-yi-dong-ci-pan-de-jie-jue-ban-fa/">
         </link>
         <updated>2020-03-19T23:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>近日我的U盘插进计算机后，计算机出现<strong>半透明的可移动磁盘图标，无U盘容量指示条，双击后弹出对话框“插入磁盘：<code>请将磁盘插入“可移动磁盘”。</code></strong>。我懵逼了！！！</p>
@@ -68,7 +68,7 @@
 <p>下载两个软件<code>chipgenius.zip</code> <code>APToolV7100_19-03.zip</code>，并进行解压，存放至文件夹中。</p>
 </li>
 <li>
-<p>将损坏U盘插入计算机中，打开由<code>chipgenius.zip</code>解压出的<code>ChipGenius_v4_19_0723</code>文件夹内的<code>ChipGenius_v4_19_0723.exe</code>应用程序。在弹出的对话框的上部名为<code>系统上连接的USB控制器及USB设备列表（选定设备查看详细信息）：</code>的列表框中选择插入的U盘：（不好判断可以根据弹出的<code>请将磁盘插入“可移动磁盘 (盘符)”。</code>中盘符号进行选择，例如我的U盘是[H:]盘符，就选择下图中前缀为[H:]的列表项）</p>
+<p>将损坏U盘插入计算机中，打开由<code>chipgenius.zip</code>解压出的<code>ChipGenius_v4_19_0723</code>文件夹内的<code>ChipGenius_v4_19_0723.exe</code>应用程序。在弹出的对话框的上部名为<code>系统上连接的USB控制器及USB设备列表（选定设备查看详细信息）：</code>的列表框中选择插入的U盘：（不好判断可以根据弹出的<code>请将磁盘插入“可移动磁盘”。</code>中盘符号进行选择，例如我的U盘是[H:]盘符，就选择下图中前缀为[H:]的列表项）</p>
 </li>
 </ul>
 <figure data-type="image" tabindex="1"><img src="https://lieyandefennu.github.io/post-images/1589608083642.png" alt="" loading="lazy"></figure>
